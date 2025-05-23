@@ -1,6 +1,7 @@
 # tic_tac_toe
 ***Tic-Tac-Toe (10x10) Server-Client Game***
 ***Project Description***
+
 This project implements a two-player Tic-Tac-Toe game on a 10x10 grid, where players aim to align five marks ('X' or 'O') in a row, column, or diagonal to win. The game uses a client-server architecture:
 
 ***Server (server.c)***: Manages game state, validates moves, checks for winners, and communicates with clients via TCP sockets.
